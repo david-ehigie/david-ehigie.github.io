@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://david-toluwani-ehigie.github.io/david-toluwani-ehigie/sitemap.xml
+Sitemap: https://david-ehigie.github.io/sitemap.xml

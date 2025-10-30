@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "davidehigie66/david-toluwani-ehigie.github.io",
+    "data-repo": "david-ehigie/david-toluwani-ehigie.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
