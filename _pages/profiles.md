@@ -10,19 +10,19 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: Profile Pic.jpg
+    image: Prof_Pics.jpg
     content: about_david.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Ahmedabad University</p>
-      <p>Navrangpura</p>
-      <p>Ahmedabad, Gujarat 380009 India</p>
+    image_circular: true # crops the image to make it circular
+   # more_info: >
+   # <p>Ahmedabad University</p>
+   # <p>Navrangpura</p>
+   # <p>India</p>
   - align: left
-    image: Profile Pic.jpg
+    image: Prof_Pics.jpg
     content: about_david.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Ahmedabad University</p>
-      <p>Navrangpura</p>
-      <p>Ahmedabad, Gujarat 380009 India</p>
+    image_circular: true # crops the image to make it circular
+  #  more_info: >
+  # <p>Ahmedabad University</p>
+  # <p>Navrangpura</p>
+  # <p>Ahmedabad, Gujarat 380009 India</p>
 ---
