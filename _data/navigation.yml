@@ -1,0 +1,17 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+  - title: "GitHub"
+    url: https://github.com/david-ehigie
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/david-toluwani-ehigie/
