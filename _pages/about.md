@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>PhD student at Ahmedabad University</a>.
 
 profile:
   align: right
   image: Prof_Pics.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Ahmedabad University</p>
-    <p>Ahmedabad 380009</p>
-    <p> India</p>
+  image_circular: true # crops the image to make it circular
+# more_info: >
+ #   <p>Ahmedabad University</p>
+  #  <p>Ahmedabad 380009</p>
+   # <p> India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,11 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
  
-
-David Toluwani Ehigie is a PhD student in Engineering at Ahmedabad University, India, with research interests centered on AI-driven cybersecurity across emerging technologies such as blockchain and cloud computing. His work focuses on developing intelligent and adaptive frameworks for threat detection, and enhancing trust, transparency, and resilience in digital ecosystems.
-
-He holds a First Class Master’s degree in Cybersecurity from Gujarat Technological University, where his thesis explored deep learning–based phishing detection models. He also has hands-on experience in SOC operations, digital forensics, and network security.
-
-Beyond research, David enjoys mentoring aspiring professionals, volunteering for community initiatives, and participating in sports that promote teamwork and discipline. / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+ / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
