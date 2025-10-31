@@ -6,8 +6,8 @@ subtitle: <a href='#'>PhD student at Ahmedabad University</a>.
 
 profile:
   align: right
-  image:assets/img/Prof_Pics.jpg
-  image_circular: true # crops the image to make it circular
+  image: assets/img/Prof_Pics.jpg
+  image_circular: false # crops the image to make it circular
 # more_info: >
  #   <p>Ahmedabad University</p>
   #  <p>Ahmedabad 380009</p>
