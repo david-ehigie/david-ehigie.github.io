@@ -9,8 +9,8 @@ profile:
   image: Prof_Pics.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  #  <p>Ahmedabad University</p>
-  #  <p>Ahmedabad 380009</p>
+    <p>Ahmedabad University</p>
+    <p>Ahmedabad 380009</p>
     <p> India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
